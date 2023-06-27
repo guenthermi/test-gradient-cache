@@ -1,0 +1,6 @@
+wheel==0.40.0
+git+https://github.com/luyug/GradCache
+transformers==4.30.2
+pandas==2.0.2
+pytorch_metric_learning==2.2.0
+torch==2.0.1
